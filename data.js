@@ -19,7 +19,8 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "祝大家学业有成，开心健康",
-    "photo": "photos/image2.jpeg"
+    "photo": "photos/image2.jpeg",
+    "messageDate": "2026-11-06"
   },
   {
     "name": "马吉元",
@@ -129,7 +130,8 @@ const students = [
     "city": "广州佛山",
     "unit": "广东美芝制冷设备有限公司",
     "message": "希望老师身体健康，工作顺利！希望师兄师姐师弟师妹科研顺利，成果多多！",
-    "photo": "photos/image12.jpeg"
+    "photo": "photos/image12.jpeg",
+    "messageDate": "2026-11-06"
   },
   {
     "name": "石岩",
@@ -174,7 +176,8 @@ const students = [
     "city": "福清",
     "unit": "福清核电",
     "message": "欢迎大家加入曹老师课题组",
-    "photo": "photos/image16.jpeg"
+    "photo": "photos/image16.jpeg",
+    "messageDate": "2026-11-06"
   },
   {
     "name": "唐静懿",
@@ -196,7 +199,8 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "祝大家各自奔赴，发paper顺利，早日顺利毕业！嘻嘻",
-    "photo": "photos/image19.jpeg"
+    "photo": "photos/image19.jpeg",
+    "messageDate": "2026-11-06"
   },
   {
     "name": "柳浩田",
@@ -229,7 +233,8 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "加油",
-    "photo": "photos/image22.jpeg"
+    "photo": "photos/image22.jpeg",
+    "messageDate": "2026-11-06"
   },
   {
     "name": "李思涵",
@@ -251,7 +256,8 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "愿大家前程似锦，课题组蒸蒸日上！",
-    "photo": "photos/image24.jpeg"
+    "photo": "photos/image24.jpeg",
+    "messageDate": "2026-11-06"
   },
   {
     "name": "张翌晨",
@@ -406,7 +412,8 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "没有啦",
-    "photo": "photos/image37.jpeg"
+    "photo": "photos/image37.jpeg",
+    "messageDate": "2026-11-07"
   },
   {
     "name": "郑宏骁",
@@ -439,7 +446,8 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "共勉",
-    "photo": "photos/image40.jpeg"
+    "photo": "photos/image40.jpeg",
+    "messageDate": "2026-11-07"
   },
   {
     "name": "杨楠",
@@ -472,7 +480,8 @@ const students = [
     "city": "上海",
     "unit": "美的",
     "message": "期待下次相见",
-    "photo": "photos/image43.jpeg"
+    "photo": "photos/image43.jpeg",
+    "messageDate": "2026-11-13"
   },
   {
     "name": "孙帅辉",
@@ -1500,6 +1509,7 @@ const students = [
     "status": "current",
     "partTime": true,
     "degree": "博士研究生",
-    "photoRotation": 0
+    "photoRotation": 0,
+    "messageDate": "2026-11-16"
   }
 ];

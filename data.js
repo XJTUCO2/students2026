@@ -1611,14 +1611,14 @@ const students = [
     "name": "边云鹏",
     "mentor": "殷翔",
     "start": "2024",
-    "end": "2026",
-    "expected": "",
+    "end": "",
+    "expected": "2026",
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
     "photo": "photos/xlsx-update-56-image54.jpeg",
-    "degree": "博士研究生",
-    "status": "graduated"
+    "degree": "硕士研究生",
+    "status": "current"
   },
   {
     "name": "柏腾达",

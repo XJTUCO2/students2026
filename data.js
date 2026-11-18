@@ -8,7 +8,7 @@ const students = [
     "city": "烟台",
     "unit": "顿汉布什",
     "message": "",
-    "photo": "photos/image1.jpeg"
+    "photo": "photos/2022_张树铖.jpeg"
   },
   {
     "name": "李欣",
@@ -19,7 +19,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "祝大家学业有成，开心健康",
-    "photo": "photos/image2.jpeg",
+    "photo": "photos/2024_李欣.jpeg",
     "messageDate": "2026-11-06"
   },
   {
@@ -31,7 +31,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image3.jpeg"
+    "photo": "photos/2025_马吉元.jpeg"
   },
   {
     "name": "李悦睿",
@@ -42,7 +42,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image4.jpeg"
+    "photo": "photos/2025_李悦睿.jpeg"
   },
   {
     "name": "韩旭",
@@ -53,7 +53,7 @@ const students = [
     "city": "北京",
     "unit": "中粮集团有限公司",
     "message": "",
-    "photo": "photos/image5.jpeg"
+    "photo": "photos/2023_韩旭.jpeg"
   },
   {
     "name": "钟俊杰",
@@ -64,7 +64,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image6.jpeg"
+    "photo": "photos/2025_钟俊杰.jpeg"
   },
   {
     "name": "张仕珩",
@@ -75,7 +75,7 @@ const students = [
     "city": "北京",
     "unit": "中国中车",
     "message": "",
-    "photo": "photos/image7.jpeg"
+    "photo": "photos/2023_张仕珩.jpeg"
   },
   {
     "name": "钟荀",
@@ -86,7 +86,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image8.jpeg"
+    "photo": "photos/2025_钟荀.jpeg"
   },
   {
     "name": "邢浩威",
@@ -97,7 +97,7 @@ const students = [
     "city": "上海",
     "unit": "阳光电源有限公司",
     "message": "",
-    "photo": "photos/image9.jpeg"
+    "photo": "photos/2022_邢浩威.jpeg"
   },
   {
     "name": "羊金载",
@@ -108,7 +108,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image10.jpeg"
+    "photo": "photos/2024_羊金载.jpeg"
   },
   {
     "name": "张婧仪",
@@ -119,7 +119,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image11.jpeg"
+    "photo": "photos/2025_张婧仪.jpeg"
   },
   {
     "name": "高傲龙",
@@ -130,7 +130,7 @@ const students = [
     "city": "广州佛山",
     "unit": "广东美芝制冷设备有限公司",
     "message": "希望老师身体健康，工作顺利！希望师兄师姐师弟师妹科研顺利，成果多多！",
-    "photo": "photos/image12.jpeg",
+    "photo": "photos/2023_高傲龙.jpeg",
     "messageDate": "2026-11-06"
   },
   {
@@ -142,7 +142,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/shi-yan-updated-20261116.jpg",
+    "photo": "photos/2026_石岩.jpg",
     "photoRotation": 0
   },
   {
@@ -154,7 +154,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image14.jpeg"
+    "photo": "photos/2026_刘阳.jpeg"
   },
   {
     "name": "夏锦浩",
@@ -165,7 +165,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image15.jpeg"
+    "photo": "photos/2025_夏锦浩.jpeg"
   },
   {
     "name": "何凯程",
@@ -176,7 +176,7 @@ const students = [
     "city": "福清",
     "unit": "福清核电",
     "message": "欢迎大家加入曹老师课题组",
-    "photo": "photos/image16.jpeg",
+    "photo": "photos/2023_何凯程.jpeg",
     "messageDate": "2026-11-06"
   },
   {
@@ -188,7 +188,7 @@ const students = [
     "city": "无锡",
     "unit": "江森自控",
     "message": "",
-    "photo": "photos/image17.jpeg"
+    "photo": "photos/2021_唐静懿.jpeg"
   },
   {
     "name": "姜燎亮",
@@ -199,7 +199,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "祝大家各自奔赴，发paper顺利，早日顺利毕业！嘻嘻",
-    "photo": "photos/image19.jpeg",
+    "photo": "photos/2024_姜燎亮.jpeg",
     "messageDate": "2026-11-06"
   },
   {
@@ -211,7 +211,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image20.jpeg"
+    "photo": "photos/2025_柳浩田.jpeg"
   },
   {
     "name": "张通",
@@ -222,7 +222,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image21.jpeg"
+    "photo": "photos/2026_张通.jpeg"
   },
   {
     "name": "郭耀阳",
@@ -232,9 +232,9 @@ const students = [
     "expected": "2028",
     "city": "西安",
     "unit": "西安交通大学",
-    "message": "加油",
-    "photo": "photos/image22.jpeg",
-    "messageDate": "2026-11-06"
+    "message": "苔花如米小，也学牡丹开",
+    "photo": "photos/2025_郭耀阳.jpeg",
+    "messageDate": "2026-11-18"
   },
   {
     "name": "李思涵",
@@ -245,7 +245,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image23.jpeg"
+    "photo": "photos/2026_李思涵.jpeg"
   },
   {
     "name": "李少强",
@@ -256,7 +256,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "愿大家前程似锦，课题组蒸蒸日上！",
-    "photo": "photos/image24.jpeg",
+    "photo": "photos/2024_李少强.jpeg",
     "messageDate": "2026-11-06"
   },
   {
@@ -268,7 +268,7 @@ const students = [
     "city": "西安",
     "unit": "中粮集团有限公司",
     "message": "",
-    "photo": "photos/image25.jpeg"
+    "photo": "photos/2023_张翌晨.jpeg"
   },
   {
     "name": "杨喆",
@@ -279,7 +279,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image26.jpeg",
+    "photo": "photos/2022_杨喆.jpeg",
     "status": "current"
   },
   {
@@ -291,7 +291,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image18.jpeg"
+    "photo": "photos/2025_陈莹.jpeg"
   },
   {
     "name": "许凤娇",
@@ -302,7 +302,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image27.jpeg"
+    "photo": "photos/2025_许凤娇.jpeg"
   },
   {
     "name": "蔚清盛",
@@ -313,7 +313,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image28.jpeg"
+    "photo": "photos/2023_蔚清盛.jpeg"
   },
   {
     "name": "曹志简",
@@ -324,7 +324,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image29.jpeg"
+    "photo": "photos/2024_曹志简.jpeg"
   },
   {
     "name": "胡宇航",
@@ -335,7 +335,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image30.jpeg"
+    "photo": "photos/2026_胡宇航.jpeg"
   },
   {
     "name": "刘致辰",
@@ -346,7 +346,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image31.jpeg"
+    "photo": "photos/2025_刘致辰.jpeg"
   },
   {
     "name": "滕宇杰",
@@ -357,7 +357,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image32.png"
+    "photo": "photos/2024_滕宇杰.png"
   },
   {
     "name": "邹晨宇",
@@ -368,7 +368,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image33.png"
+    "photo": "photos/2026_邹晨宇.png"
   },
   {
     "name": "郑泽灿",
@@ -379,7 +379,7 @@ const students = [
     "city": "重庆",
     "unit": "重庆长安汽车股份有限公司",
     "message": "",
-    "photo": "photos/image34.jpeg"
+    "photo": "photos/2023_郑泽灿.jpeg"
   },
   {
     "name": "郭晶晶",
@@ -390,7 +390,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image35.jpeg"
+    "photo": "photos/2025_郭晶晶.jpeg"
   },
   {
     "name": "徐智明",
@@ -401,7 +401,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image36.jpeg"
+    "photo": "photos/2024_徐智明.jpeg"
   },
   {
     "name": "曹柏洋",
@@ -412,7 +412,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "没有啦",
-    "photo": "photos/image37.jpeg",
+    "photo": "photos/2026_曹柏洋.jpeg",
     "messageDate": "2026-11-07"
   },
   {
@@ -424,7 +424,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image38.jpeg"
+    "photo": "photos/2024_郑宏骁.jpeg"
   },
   {
     "name": "李鑫",
@@ -435,7 +435,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image39.jpeg"
+    "photo": "photos/2024_李鑫.jpeg"
   },
   {
     "name": "常天亮",
@@ -446,7 +446,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "共勉",
-    "photo": "photos/image40.jpeg",
+    "photo": "photos/2022_常天亮.jpeg",
     "messageDate": "2026-11-07"
   },
   {
@@ -458,7 +458,7 @@ const students = [
     "city": "重庆",
     "unit": "重庆气体压缩机厂有限责任公司",
     "message": "",
-    "photo": "photos/image41.jpeg"
+    "photo": "photos/2020_杨楠.jpeg"
   },
   {
     "name": "李佳璐",
@@ -469,7 +469,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/image42.jpeg"
+    "photo": "photos/2022_李佳璐.jpeg"
   },
   {
     "name": "杨梦莹",
@@ -480,7 +480,7 @@ const students = [
     "city": "上海",
     "unit": "美的",
     "message": "期待下次相见",
-    "photo": "photos/image43.jpeg",
+    "photo": "photos/2023_杨梦莹.jpeg",
     "messageDate": "2026-11-13"
   },
   {
@@ -492,7 +492,7 @@ const students = [
     "city": "西安",
     "unit": "西安理工大学",
     "message": "",
-    "photo": "photos/ppt-image4.jpg",
+    "photo": "photos/2006_孙帅辉.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 2,
@@ -509,7 +509,7 @@ const students = [
     "city": "夏洛特（美国）",
     "unit": "美国Collins Aerospace",
     "message": "",
-    "photo": "photos/ppt-image5.jpg",
+    "photo": "photos/2006_王凯.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 2,
@@ -527,7 +527,7 @@ const students = [
     "city": "北京",
     "unit": "航天科技集团有限公司",
     "message": "",
-    "photo": "photos/ppt-image7.jpg",
+    "photo": "photos/2007_王猛.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 3,
@@ -545,7 +545,7 @@ const students = [
     "city": "佛山",
     "unit": "美的集团",
     "message": "",
-    "photo": "photos/ppt-image6.jpg",
+    "photo": "photos/2007_王晶.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 3,
@@ -563,7 +563,7 @@ const students = [
     "city": "北京",
     "unit": "中国铁路经济规划研究院",
     "message": "",
-    "photo": "photos/ppt-image8.png",
+    "photo": "photos/2007_王守国.png",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 3,
@@ -580,7 +580,7 @@ const students = [
     "city": "上海",
     "unit": "上海交通大学",
     "message": "",
-    "photo": "photos/ppt-image9.jpeg",
+    "photo": "photos/2009_胡斌.jpeg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 4,
@@ -597,7 +597,7 @@ const students = [
     "city": "郑州",
     "unit": "郑州轻工业大学",
     "message": "",
-    "photo": "photos/ppt-image10.jpg",
+    "photo": "photos/2010_何永宁.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 5,
@@ -614,7 +614,7 @@ const students = [
     "city": "北京",
     "unit": "中国铁道科学研究院",
     "message": "",
-    "photo": "photos/ppt-image11.jpg",
+    "photo": "photos/2012_金磊.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 6,
@@ -630,7 +630,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/ppt-image12.png",
+    "photo": "photos/2012_殷翔.png",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 7,
@@ -647,7 +647,7 @@ const students = [
     "city": "南京",
     "unit": "南京工程学院",
     "message": "",
-    "photo": "photos/ppt-image13.jpeg",
+    "photo": "photos/2012_杨东方.jpeg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 7,
@@ -665,7 +665,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/ppt-image14.jpg",
+    "photo": "photos/2013_宋昱龙.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 8,
@@ -680,15 +680,13 @@ const students = [
     "end": "2021",
     "expected": "",
     "city": "南京",
-    "unit": "东南大学",
+    "unit": "河海大学",
     "message": "",
-    "photo": "photos/ppt-image15.jpg",
+    "photo": "photos/2015_王驿凯.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 9,
-    "startInferred": true,
-    "cityInferred": true,
-    "cityBasis": "根据现有工作单位所在地推定，未核实个人现驻地"
+    "startInferred": true
   },
   {
     "name": "叶祖樑",
@@ -699,7 +697,7 @@ const students = [
     "city": "西安",
     "unit": "中兴通讯股份有限公司",
     "message": "",
-    "photo": "photos/ppt-image16.jpg",
+    "photo": "photos/2016_叶祖樑.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 10,
@@ -714,7 +712,7 @@ const students = [
     "city": "上海",
     "unit": "上海核工程研究设计院",
     "message": "",
-    "photo": "photos/ppt-image18.jpg",
+    "photo": "photos/2006_卢振飞.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 12,
@@ -731,7 +729,7 @@ const students = [
     "city": "北京",
     "unit": "中核战略规划研究总院",
     "message": "",
-    "photo": "photos/ppt-image19.jpeg",
+    "photo": "photos/2006_柴抗抗.jpeg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 12,
@@ -748,7 +746,7 @@ const students = [
     "city": "上海",
     "unit": "中船711所",
     "message": "",
-    "photo": "photos/ppt-image20.jpg",
+    "photo": "photos/2007_李松山.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 13,
@@ -765,7 +763,7 @@ const students = [
     "city": "上海",
     "unit": "上海空间推进研究所",
     "message": "",
-    "photo": "photos/ppt-image21.jpeg",
+    "photo": "photos/2007_焦金成.jpeg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 13,
@@ -782,7 +780,7 @@ const students = [
     "city": "成都",
     "unit": "成都龙潭新经济产业功能区管委会",
     "message": "",
-    "photo": "photos/ppt-image22.jpg",
+    "photo": "photos/2007_孟陶.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 13,
@@ -796,14 +794,16 @@ const students = [
     "start": "2007",
     "end": "2010",
     "expected": "",
-    "city": "",
-    "unit": "",
+    "city": "北京",
+    "unit": "同方节能工程技术有限公司",
     "message": "",
-    "photo": "photos/ppt-image23.jpg",
+    "photo": "photos/2007_潘涛.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 14,
-    "startInferred": true
+    "startInferred": true,
+    "cityInferred": true,
+    "cityBasis": "按单位总部所在地填写，未核实个人现驻地"
   },
   {
     "name": "李祁光",
@@ -814,7 +814,7 @@ const students = [
     "city": "北京",
     "unit": "北京石油化工工程有限公司",
     "message": "",
-    "photo": "photos/ppt-image24.jpg",
+    "photo": "photos/2008_李祁光.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 15,
@@ -831,7 +831,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/ppt-image25.jpg",
+    "photo": "photos/2009_王文毅.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 16,
@@ -848,7 +848,7 @@ const students = [
     "city": "南京",
     "unit": "中国电子科技有限公司",
     "message": "",
-    "photo": "photos/ppt-image26.jpeg",
+    "photo": "photos/2010_李力.jpeg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 17,
@@ -863,7 +863,7 @@ const students = [
     "city": "上海",
     "unit": "中国船舶集团有限公司第七一一研究所",
     "message": "",
-    "photo": "photos/ppt-image27.jpg",
+    "photo": "photos/2010_杨小强.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 17,
@@ -878,7 +878,7 @@ const students = [
     "city": "西安",
     "unit": "西北民航项目管理有限公司",
     "message": "",
-    "photo": "photos/ppt-image28.jpg",
+    "photo": "photos/2011_夏源.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 18,
@@ -895,7 +895,7 @@ const students = [
     "city": "宁波",
     "unit": "宁波鲍斯能源装备有限公司",
     "message": "",
-    "photo": "photos/ppt-image29.jpg",
+    "photo": "photos/2012_房晨晨.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 18,
@@ -911,7 +911,7 @@ const students = [
     "city": "佛山",
     "unit": "美的集团",
     "message": "",
-    "photo": "photos/ppt-image30.jpg",
+    "photo": "photos/2013_李阳.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 19,
@@ -928,7 +928,7 @@ const students = [
     "city": "北京",
     "unit": "中国核电工程有限公司",
     "message": "",
-    "photo": "photos/ppt-image31.jpeg",
+    "photo": "photos/2013_焦玉龙.jpeg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 19,
@@ -945,7 +945,7 @@ const students = [
     "city": "青岛",
     "unit": "海信空调有限公司",
     "message": "",
-    "photo": "photos/ppt-image32.jpg",
+    "photo": "photos/2012_刘腾.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 20,
@@ -960,7 +960,7 @@ const students = [
     "city": "长沙",
     "unit": "通达电磁能股份有限公司",
     "message": "",
-    "photo": "photos/ppt-image33.jpg",
+    "photo": "photos/2013_邓文川.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 20,
@@ -977,7 +977,7 @@ const students = [
     "city": "上海",
     "unit": "上海交通大学",
     "message": "",
-    "photo": "photos/ppt-image34.jpg",
+    "photo": "photos/2014_乔亦圆.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 21
@@ -991,7 +991,7 @@ const students = [
     "city": "青岛",
     "unit": "海信日立空调有限公司",
     "message": "",
-    "photo": "photos/ppt-image36.jpeg",
+    "photo": "photos/2015_李东哲.jpeg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 22,
@@ -1007,9 +1007,9 @@ const students = [
     "end": "2018",
     "expected": "",
     "city": "西班牙",
-    "unit": "美的集团",
+    "unit": "马德里理工大学",
     "message": "",
-    "photo": "photos/ppt-image35.jpeg",
+    "photo": "photos/2015_崔靖.jpeg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 22,
@@ -1024,7 +1024,7 @@ const students = [
     "city": "合肥",
     "unit": "兴业银行合肥分行",
     "message": "",
-    "photo": "photos/ppt-image37.jpg",
+    "photo": "photos/2016_郭雅琪.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 23,
@@ -1041,7 +1041,7 @@ const students = [
     "city": "西安",
     "unit": "西安荣耀有限公司",
     "message": "",
-    "photo": "photos/ppt-image38.jpg",
+    "photo": "photos/2018_魏香羽.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 24,
@@ -1056,9 +1056,9 @@ const students = [
     "end": "2022",
     "expected": "",
     "city": "厦门",
-    "unit": "华为技术有限公司",
+    "unit": "新能安",
     "message": "",
-    "photo": "photos/ppt-image39.jpeg",
+    "photo": "photos/2019_黄龙飞.jpeg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 25,
@@ -1071,9 +1071,9 @@ const students = [
     "end": "2022",
     "expected": "",
     "city": "上海",
-    "unit": "理想汽车科技有限公司",
+    "unit": "博世",
     "message": "",
-    "photo": "photos/ppt-image40.jpg",
+    "photo": "photos/2019_李升波.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 25,
@@ -1088,7 +1088,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/xlsx-update-58-image56.png",
+    "photo": "photos/2020_张腾.png",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 25,
@@ -1103,7 +1103,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/ppt-image44.jpg",
+    "photo": "photos/2017_崔策.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 29,
@@ -1118,7 +1118,7 @@ const students = [
     "city": "南京",
     "unit": "南京理工大学",
     "message": "",
-    "photo": "photos/ppt-image45.jpg",
+    "photo": "photos/2017_王谙词.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 29,
@@ -1133,7 +1133,7 @@ const students = [
     "city": "天津",
     "unit": "中国汽车技术研究中心有限公司",
     "message": "",
-    "photo": "photos/ppt-image46.jpg",
+    "photo": "photos/2018_方健珉.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 30,
@@ -1148,7 +1148,7 @@ const students = [
     "city": "上海",
     "unit": "海立电器有限公司",
     "message": "",
-    "photo": "photos/ppt-image47.jpg",
+    "photo": "photos/2018_王海丹.jpg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 30,
@@ -1161,9 +1161,9 @@ const students = [
     "end": "",
     "expected": "",
     "city": "西安",
-    "unit": "西安交通大学",
+    "unit": "中粮科工",
     "message": "",
-    "photo": "photos/ppt-image48.jpeg",
+    "photo": "photos/2020_管佳佳.jpeg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 30,
@@ -1179,7 +1179,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/ppt-image50.jpeg",
+    "photo": "photos/2019_宗硕.jpeg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 31,
@@ -1191,10 +1191,10 @@ const students = [
     "start": "2021",
     "end": "",
     "expected": "",
-    "city": "西安",
-    "unit": "西安交通大学",
+    "city": "杭州",
+    "unit": "三花",
     "message": "",
-    "photo": "photos/ppt-image49.jpeg",
+    "photo": "photos/2021_王希龙.jpeg",
     "degree": "博士研究生",
     "status": "current",
     "sourceSlide": 31,
@@ -1210,7 +1210,7 @@ const students = [
     "city": "长春",
     "unit": "中国第一汽车集团有限公司",
     "message": "",
-    "photo": "photos/ppt-image53.png",
+    "photo": "photos/2020_刘宇轩.png",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 32,
@@ -1225,7 +1225,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/ppt-image51.jpg",
+    "photo": "photos/2020_苗童语.jpg",
     "degree": "博士研究生",
     "status": "current",
     "sourceSlide": 32,
@@ -1240,7 +1240,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/ppt-image52.png",
+    "photo": "photos/2020_任佳航.png",
     "degree": "博士研究生",
     "status": "current",
     "sourceSlide": 32,
@@ -1252,10 +1252,10 @@ const students = [
     "start": "2022",
     "end": "",
     "expected": "",
-    "city": "西安",
-    "unit": "西安交通大学",
+    "city": "新乡",
+    "unit": "新航机电科技有限公司",
     "message": "",
-    "photo": "photos/ppt-image54.jpeg",
+    "photo": "photos/2022_陈彬.jpeg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 33,
@@ -1271,7 +1271,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/ppt-image55.jpeg",
+    "photo": "photos/2020_贾凡.png",
     "degree": "博士研究生",
     "status": "current",
     "sourceSlide": 34,
@@ -1279,14 +1279,14 @@ const students = [
   },
   {
     "name": "胡昊宇",
-    "mentor": "曹锋",
+    "mentor": "杨旭",
     "start": "2021",
     "end": "",
     "expected": "",
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/ppt-image56.jpg",
+    "photo": "photos/2021_胡昊宇.jpg",
     "degree": "博士研究生",
     "status": "current",
     "sourceSlide": 34,
@@ -1299,13 +1299,14 @@ const students = [
     "end": "2023",
     "expected": "",
     "city": "西安",
-    "unit": "中粮集团有限公司",
-    "message": "",
-    "photo": "photos/ppt-image57.jpeg",
+    "unit": "维谛技术（西安）有限公司",
+    "message": "祝咱们课题组蒸蒸日上，成果丰硕！祝师弟师妹们科研顺利，前程似锦！",
+    "photo": "photos/2020_乔义友.jpeg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 35,
-    "startInferred": false
+    "startInferred": false,
+    "messageDate": "2026-11-18"
   },
   {
     "name": "徐凌宇",
@@ -1316,7 +1317,7 @@ const students = [
     "city": "西安",
     "unit": "比亚迪股份有限公司",
     "message": "",
-    "photo": "photos/ppt-image58.jpg",
+    "photo": "photos/2020_徐凌宇.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 35,
@@ -1331,7 +1332,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/ppt-image62.jpg",
+    "photo": "photos/2021_任纪霖.jpg",
     "degree": "博士研究生",
     "status": "current",
     "sourceSlide": 36,
@@ -1346,7 +1347,7 @@ const students = [
     "city": "北京",
     "unit": "中国航天科技集团有限公司",
     "message": "",
-    "photo": "photos/ppt-image60.jpg",
+    "photo": "photos/2021_何一帆.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 36,
@@ -1361,7 +1362,7 @@ const students = [
     "city": "西安",
     "unit": "比亚迪股份有限公司",
     "message": "",
-    "photo": "photos/ppt-image61.jpeg",
+    "photo": "photos/2021_郭强.jpeg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 36,
@@ -1376,7 +1377,7 @@ const students = [
     "city": "深圳",
     "unit": "维谛技术有限公司",
     "message": "",
-    "photo": "photos/ppt-image66.jpeg",
+    "photo": "photos/2022_管燕.jpeg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 38,
@@ -1391,7 +1392,7 @@ const students = [
     "city": "深圳",
     "unit": "中国广核集团有限公司",
     "message": "",
-    "photo": "photos/ppt-image64.jpg",
+    "photo": "photos/2022_任兆龙.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 38,
@@ -1406,7 +1407,7 @@ const students = [
     "city": "深圳",
     "unit": "比亚迪股份有限公司",
     "message": "",
-    "photo": "photos/ppt-image72.jpg",
+    "photo": "photos/2022_谢宏生.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 40,
@@ -1421,7 +1422,7 @@ const students = [
     "city": "上海",
     "unit": "小米汽车",
     "message": "",
-    "photo": "photos/ppt-image71.jpg",
+    "photo": "photos/2022_陈瑞.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 40,
@@ -1436,7 +1437,7 @@ const students = [
     "city": "深圳",
     "unit": "比亚迪股份有限公司",
     "message": "",
-    "photo": "photos/ppt-image70.jpg",
+    "photo": "photos/2022_蒋清霖.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 40,
@@ -1451,7 +1452,7 @@ const students = [
     "city": "深圳",
     "unit": "深圳市新凯来技术有限公司",
     "message": "",
-    "photo": "photos/ppt-image75.jpg",
+    "photo": "photos/2023_胡蓝珂.jpg",
     "degree": "硕士研究生",
     "status": "graduated",
     "sourceSlide": 41,
@@ -1466,7 +1467,7 @@ const students = [
     "city": "深圳",
     "unit": "深圳市英维克科技股份有限公司",
     "message": "",
-    "photo": "photos/ppt-image17.jpeg",
+    "photo": "photos/2015_韦立川.jpeg",
     "degree": "博士研究生",
     "status": "graduated",
     "sourceSlide": 11,
@@ -1481,7 +1482,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/xlsx-added-45-image44.jpeg",
+    "photo": "photos/2024_楚远浩.jpeg",
     "status": "current"
   },
   {
@@ -1493,7 +1494,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/xlsx-added-46-image45.jpeg",
+    "photo": "photos/2024_何珅同.jpeg",
     "status": "current"
   },
   {
@@ -1505,7 +1506,7 @@ const students = [
     "city": "上海",
     "unit": "中国长安汽车集团辰致创新研究总院",
     "message": "任博好帅",
-    "photo": "photos/wang-zhiming-clean.png",
+    "photo": "photos/2023_王知明.png",
     "status": "current",
     "partTime": true,
     "degree": "博士研究生",
@@ -1521,7 +1522,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/xlsx-update-48-image47.jpeg",
+    "photo": "photos/2024_刘舒宇.jpeg",
     "degree": "硕士研究生",
     "status": "current"
   },
@@ -1534,7 +1535,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "都来读博",
-    "photo": "photos/xlsx-update-49-image48.jpeg",
+    "photo": "photos/2024_张雨辰.jpeg",
     "degree": "博士研究生",
     "status": "current",
     "messageDate": "2026-11-17"
@@ -1548,7 +1549,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/xlsx-update-50-image49.jpeg",
+    "photo": "photos/2023_王昱.jpeg",
     "degree": "博士研究生",
     "status": "current"
   },
@@ -1561,7 +1562,7 @@ const students = [
     "city": "佛山",
     "unit": "广东美的环境科技有限公司",
     "message": "祝杨老师，曹老师以及各位组内的其他老师科研顺利，成果满满；在校的师弟师妹们请好好努力，珍惜还在学校的时光；已经工作的各位同门，祝事业蒸蒸日上；",
-    "photo": "photos/xlsx-update-51-image50.jpeg",
+    "photo": "photos/2019_杜鑫.jpeg",
     "degree": "硕士研究生",
     "status": "graduated",
     "messageDate": "2026-11-17"
@@ -1575,7 +1576,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "多吃肉，多睡觉",
-    "photo": "photos/xlsx-update-52-image51.jpeg",
+    "photo": "photos/2025_董润霖.jpeg",
     "degree": "硕士研究生",
     "status": "current",
     "messageDate": "2026-11-17"
@@ -1589,7 +1590,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "希望大家都能在此有些收获，有些成长，有些进步",
-    "photo": "photos/xlsx-update-53-image52.jpeg",
+    "photo": "photos/2025_马骥腾.jpeg",
     "degree": "硕士研究生",
     "status": "current",
     "messageDate": "2026-11-17"
@@ -1603,7 +1604,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/xlsx-update-54-image53.jpeg",
+    "photo": "photos/2025_赵佳琳.jpeg",
     "degree": "硕士研究生",
     "status": "current"
   },
@@ -1616,7 +1617,7 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/xlsx-update-56-image54.jpeg",
+    "photo": "photos/2024_边云鹏.jpeg",
     "degree": "硕士研究生",
     "status": "current"
   },
@@ -1629,8 +1630,110 @@ const students = [
     "city": "西安",
     "unit": "西安交通大学",
     "message": "",
-    "photo": "photos/xlsx-update-57-image55.jpeg",
+    "photo": "photos/2024_柏腾达.jpeg",
     "degree": "硕士研究生",
     "status": "current"
+  },
+  {
+    "name": "曹海鑫",
+    "mentor": "崔策",
+    "start": "2026",
+    "end": "",
+    "expected": "2029",
+    "city": "西安",
+    "unit": "西安交通大学",
+    "status": "current",
+    "degree": "硕士研究生",
+    "message": "祝大家生活愉快",
+    "messageDate": "2026-11-18",
+    "photo": "photos/2026_曹海鑫.jpeg"
+  },
+  {
+    "name": "郭昊璇",
+    "mentor": "曹锋",
+    "start": "2026",
+    "end": "",
+    "expected": "2029",
+    "city": "西安",
+    "unit": "西安交通大学",
+    "status": "current",
+    "degree": "硕士研究生",
+    "photo": "photos/2026_郭昊璇.jpeg"
+  },
+  {
+    "name": "戴嘉成",
+    "mentor": "杨旭",
+    "start": "2026",
+    "end": "",
+    "expected": "2029",
+    "city": "西安",
+    "unit": "西安交通大学",
+    "status": "current",
+    "degree": "硕士研究生",
+    "photo": "photos/2026_戴嘉成.jpeg"
+  },
+  {
+    "name": "薛昱行",
+    "mentor": "杨旭",
+    "start": "2026",
+    "end": "",
+    "expected": "2029",
+    "city": "西安",
+    "unit": "西安交通大学",
+    "status": "current",
+    "degree": "硕士研究生",
+    "photo": "photos/2026_薛昱行.jpeg"
+  },
+  {
+    "name": "欧相伯",
+    "mentor": "宋昱龙",
+    "start": "2026",
+    "end": "",
+    "expected": "2029",
+    "city": "西安",
+    "unit": "西安交通大学",
+    "status": "current",
+    "degree": "硕士研究生",
+    "photo": "photos/2026_欧相伯.jpeg"
+  },
+  {
+    "name": "闫昱霖",
+    "mentor": "王文毅",
+    "start": "2026",
+    "end": "",
+    "expected": "",
+    "city": "西安",
+    "unit": "西安交通大学",
+    "status": "current",
+    "degree": "硕士研究生",
+    "photo": "photos/2026_闫昱霖.png",
+    "message": "祝各位老师同学身体健康",
+    "messageDate": "2026-11-18"
+  },
+  {
+    "name": "于进洋",
+    "mentor": "王文毅",
+    "start": "2026",
+    "end": "",
+    "expected": "",
+    "city": "西安",
+    "unit": "西安交通大学",
+    "status": "current",
+    "degree": "硕士研究生",
+    "photo": "photos/2026_于进洋.jpeg"
+  },
+  {
+    "name": "张飞扬",
+    "mentor": "曹锋",
+    "start": "2026",
+    "end": "",
+    "expected": "",
+    "city": "西安",
+    "unit": "西安交通大学",
+    "status": "current",
+    "degree": "博士研究生",
+    "message": "顺利毕业",
+    "messageDate": "2026-11-18",
+    "photo": "photos/2026_张飞扬.jpeg"
   }
 ];

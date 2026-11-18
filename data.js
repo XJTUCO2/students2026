@@ -1483,7 +1483,8 @@ const students = [
     "unit": "西安交通大学",
     "message": "",
     "photo": "photos/2024_楚远浩.jpeg",
-    "status": "current"
+    "status": "current",
+    "degree": "硕士研究生"
   },
   {
     "name": "何珅同",
